@@ -1,0 +1,8 @@
+buondleid: com.ly.hc.games
+
+游戏名: 烈焰皇城
+
+
+appid：103139
+登陆密钥：4c62eb14588e2cecf2b251e31cbb1be3
+支付密钥：3e25e7d56b219e1f6a67c5e1306bd8be

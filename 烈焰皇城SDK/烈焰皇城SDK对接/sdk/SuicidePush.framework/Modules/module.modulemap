@@ -1,0 +1,6 @@
+framework module SuicidePush {
+  umbrella header "SuicidePush.h"
+
+  export *
+  module * { export * }
+}
